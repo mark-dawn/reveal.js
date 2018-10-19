@@ -322,7 +322,7 @@ body {
  * PRINT BACKGROUND
  *********************************************/
 @media print {
-  .backgrounds {
+  .reveal .slide-background {
     background-color: #111;
   }
 }
